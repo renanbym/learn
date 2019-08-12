@@ -1,4 +1,4 @@
-[ ] Terra Form
-[ ] Jenkins
-[ ] Kubernetes/Docker
-[ ] Certificação Developer - AWS
+* [ ] Terra Form
+* [ ] Jenkins
+* [ ] Kubernetes/Docker
+* [ ] Certificação Developer - AWS
