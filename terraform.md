@@ -21,9 +21,6 @@ Ferramente de orquestrar infra
     * Deploy de varias camadas da arquitetura
     * Faz deploys por ordem (permite)
 
-terraform
-AKIAVHVGYFJST52N33E6
-pVFXO9NHsANQrAy2jVgq1KSVYT5YWyxhKPFBFGpn
 
-Puppet, Chef - Gerenciamento de configuração
-CloudFormation - Somente AWS
+- Puppet, Chef - Gerenciamento de configuração
+- CloudFormation - Somente AWS
